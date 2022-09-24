@@ -1,0 +1,30 @@
+.judul {
+  font-size: 20px;
+  font-weight: 100;
+  color: #000;
+}
+
+.gambar {
+   width: 40vw;
+}
+
+.container {
+   width: 400px;
+   height: 400px;
+   background-color: salmon;
+   /* display: flex;
+   justify-content: center; */
+}
+
+.kotak {
+   margin-top: 40px;
+   width: 50%;
+   height: 50%;
+   background-color: blueviolet;
+   text-align: center;
+   line-height: 200px;
+}
+
+.tabel, td, th, tr {
+   border: 2px solid blue;
+}
